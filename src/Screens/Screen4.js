@@ -10,7 +10,7 @@ const Screen4 = () => {
             </div>
             <div className="center-box">
                 <h1>Checkout</h1>
-                <h3>Thank you For order</h3>
+                <p>Thank you For Your order</p>
             </div>
 
         </>
