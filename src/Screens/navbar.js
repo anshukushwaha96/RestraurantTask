@@ -8,7 +8,7 @@ const Navbar = () => {
         <li style={{marginRight:"-20px"}}><ImSpoonKnife /></li>
        <li>Food's Restaurant</li>
         <li>Sign</li>
-       <li>Login</li>
+       <li>Logi</li>
        
      </div>
     </>
